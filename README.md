@@ -1,8 +1,5 @@
 # Scatterplot
 
-##this is repo for FCC
-###it is a chart prersentation of cheaters in bike racing 
-# Scatterplot
-# Scat
-# Scat
-# Scat
+##this is repo for FCC<br />
+###it is a chart prersentation of cheaters in bike racing<br /> 
+this was done from CLI , tbh it was a bit of a pain<br />
